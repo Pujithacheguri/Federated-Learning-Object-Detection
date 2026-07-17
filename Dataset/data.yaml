@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/custom_data/images/train/ 
+val:  /content/drive/MyDrive/custom_data/images/val/
+
+nc: 5
+names: ['bus', 'car', 'motorbike', 'person', 'truck']
